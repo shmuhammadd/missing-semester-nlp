@@ -1,4 +1,4 @@
-# missing-semester-nlp# The Missing Semester of Your NLP Education
+# The Missing Semester of Your NLP Education
 
 Welcome to the official repository for **The Missing Semester of Your NLP Education**, an advanced practical course designed for MSc students to bridge the gap between academic theory and real-world NLP practice. Inspired by MIT's "The Missing Semester of Your CS Education."
 
