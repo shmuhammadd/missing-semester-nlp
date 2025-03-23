@@ -4,6 +4,3 @@ Welcome to the official repository for **The Missing Semester of Your NLP Educat
 
 ##  Course Overview
 This course introduces essential but often neglected aspects of NLP workflows including multilingual and low-resource language processing, prompt engineering, ethical data curation, reproducibility, and effective tooling.
-
----
-
